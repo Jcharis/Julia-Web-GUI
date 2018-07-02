@@ -9,7 +9,7 @@ function mycalculator()
 	w = Window()
 
 
-	f = open("/home/rooot/Desktop/calcular.html") do file
+	f = open("calculator.html") do file
 	           read(file,String)
 	       end
 
